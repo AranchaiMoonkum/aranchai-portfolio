@@ -1,5 +1,3 @@
-import { motion } from "motion/react"
-
 export default function Information() {
     const paragraphs = [
         "I'm currently a third-year Software Engineering student at the University of Phayao. Throughout my studies, I’ve developed a strong interest in web development and enjoy working across different layers of the stack to build modern and efficient web applications",
